@@ -18,3 +18,5 @@ Combining textual and visual similarity methods ensures that the most relevant P
 - 🖥️ Clean, responsive GUI built with Tkinter  
 
 Transform your datasheet search process with Product-Finder, and never waste time sifting through files again! 📁✨
+
+(Python Version: Python 3.12.3)
