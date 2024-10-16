@@ -12,9 +12,9 @@ Combining textual and visual similarity methods ensures that the most relevant P
 
 ## 🛠️ Key Benefits:
 
-⚡ Fast and accurate retrieval of similar datasheets /n
-🛠️ Fully customizable backend for unique requirements
-🖼️ Combines text and image analysis for comprehensive results
-🖥️ Clean, responsive GUI built with Tkinter
+-⚡ Fast and accurate retrieval of similar datasheets
+-🛠️ Fully customizable backend for unique requirements
+-🖼️ Combines text and image analysis for comprehensive results
+-🖥️ Clean, responsive GUI built with Tkinter  
 
 Transform your datasheet search process with Product-Finder, and never waste time sifting through files again! 📁✨
